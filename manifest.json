@@ -1,6 +1,6 @@
 {
-  "name": "My Extension",
-  "description": "My Extension",
+  "name": "学習継続率計算",
+  "description": "表示している受講生一覧から学習継続率を計算できます",
   "version": "1.0",
   "manifest_version": 3,
   "permissions": ["activeTab", "scripting", "storage"],
