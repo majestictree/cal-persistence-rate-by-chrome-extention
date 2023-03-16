@@ -4,7 +4,6 @@
   "version": "1.0",
   "manifest_version": 3,
   "permissions": ["activeTab", "scripting", "storage", "tabs"],
-  "options_page": "options.html",
   "action": {
     "default_popup": "popup.html",
     "default_icon": "my-extension.png"
