@@ -5,10 +5,16 @@
 
 <body>
   <div>  
-    <p>日本語表示できますか</p>
-    <button id="btn">集計</button>
+    <h2>学習継続数</h2>
+    <div class="display-area">
+      <p><span class="label">7日離脱:</span><span id="danger"></span></p>
+      <p><span class="label">4日離脱:</span><span id="warning"></span></p>
+      <p><span class="label">総数:</span><span id="white"></span></p>
+    </div>
+    
+    <button id="reset">リセット</button>
     <script src="javascript/popup.js"></script>
   </div>
-
 </body>
 </html>
+

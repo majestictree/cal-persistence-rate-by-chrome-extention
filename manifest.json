@@ -6,7 +6,7 @@
   "permissions": ["activeTab", "scripting", "tabs"],
   "action": {
     "default_popup": "popup.html",
-    "default_icon": "my-extension.png"
+    "default_icon": "runteq.png"
   },
   "commands": {
     "_execute_action": {
